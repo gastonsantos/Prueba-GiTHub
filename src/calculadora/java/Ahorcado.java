@@ -7,7 +7,7 @@ public class Ahorcado {
 		Integer b;
 		Integer opcion; 
 		Integer resultado;
-		
+		//HOLA COMO ESTAS
 		Scanner teclado = new Scanner (System.in);
 	
 		do {
